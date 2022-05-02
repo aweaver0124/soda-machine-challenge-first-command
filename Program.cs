@@ -101,6 +101,7 @@ namespace soda_machine_challenge_first_command
                         break;
                      case 'G':
                         Console.WriteLine("You have selected Gatorade. This product is currently sold out. Please make another selection.");
+                        selection = Convert.ToChar(Console.ReadLine().ToUpper());
                         selectionOK = false;
                         break;
                      case 'O':
