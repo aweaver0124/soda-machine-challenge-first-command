@@ -87,17 +87,17 @@ namespace soda_machine_challenge_first_command
                     case 'W':
                         Console.WriteLine("You have selected Water. Thank you for your purchase!");
                         selectionOK = true;
-                        GiveChange();
+                        MakeChange();
                         break;
                     case 'C':
                         Console.WriteLine("You have selected Coke. Thank you for your purchase!");
                         selectionOK = true;
-                        GiveChange();
+                        MakeChange();
                         break;
                      case 'D':
                         Console.WriteLine("You have selected Diet Coke. Thank you for your purchase!");
                         selectionOK = true;
-                        GiveChange();
+                        MakeChange();
                         break;
                      case 'G':
                         Console.WriteLine("You have selected Gatorade. This product is currently sold out. Please make another selection.");
@@ -107,7 +107,7 @@ namespace soda_machine_challenge_first_command
                      case 'O':
                         Console.WriteLine("You have selected Orange Fanta. Thank you for your purchase!");
                         selectionOK = true;
-                        GiveChange();
+                        MakeChange();
                         break;
                     default:
                         Console.WriteLine("Invalid Selection. Please try again: ");
@@ -118,7 +118,7 @@ namespace soda_machine_challenge_first_command
             }
         }
 
-        private void GiveChange()
+        private void MakeChange()
         {
             if (CurrentBalance > CostOfDrink)
                 Console.WriteLine($"Your change is ${((CurrentBalance - CostOfDrink) / 100)}");
