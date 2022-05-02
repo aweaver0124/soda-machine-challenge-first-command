@@ -11,7 +11,7 @@ namespace soda_machine_challenge_first_command
 
             while (!drinkMachine.checkTotal())
             {
-                Console.WriteLine("The cost of a drink is $1.75. Please enter coins or a dollar bill (5, 10, 25, 100)");
+                Console.WriteLine("The cost of a drink is $1.75. Please enter coins(5, 10, 25) or a dollar bill (100)");
                 drinkMachine.InsertCoin(Convert.ToInt32(Console.ReadLine()));
             }
 
