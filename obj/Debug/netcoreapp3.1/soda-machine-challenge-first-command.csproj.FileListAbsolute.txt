@@ -1,0 +1,13 @@
+/home/alexandra/fc_soda_machine/soda-machine-challenge-first-command/bin/Debug/netcoreapp3.1/soda-machine-challenge-first-command
+/home/alexandra/fc_soda_machine/soda-machine-challenge-first-command/bin/Debug/netcoreapp3.1/soda-machine-challenge-first-command.deps.json
+/home/alexandra/fc_soda_machine/soda-machine-challenge-first-command/bin/Debug/netcoreapp3.1/soda-machine-challenge-first-command.runtimeconfig.json
+/home/alexandra/fc_soda_machine/soda-machine-challenge-first-command/bin/Debug/netcoreapp3.1/soda-machine-challenge-first-command.runtimeconfig.dev.json
+/home/alexandra/fc_soda_machine/soda-machine-challenge-first-command/bin/Debug/netcoreapp3.1/soda-machine-challenge-first-command.dll
+/home/alexandra/fc_soda_machine/soda-machine-challenge-first-command/bin/Debug/netcoreapp3.1/soda-machine-challenge-first-command.pdb
+/home/alexandra/fc_soda_machine/soda-machine-challenge-first-command/obj/Debug/netcoreapp3.1/soda-machine-challenge-first-command.csprojAssemblyReference.cache
+/home/alexandra/fc_soda_machine/soda-machine-challenge-first-command/obj/Debug/netcoreapp3.1/soda-machine-challenge-first-command.AssemblyInfoInputs.cache
+/home/alexandra/fc_soda_machine/soda-machine-challenge-first-command/obj/Debug/netcoreapp3.1/soda-machine-challenge-first-command.AssemblyInfo.cs
+/home/alexandra/fc_soda_machine/soda-machine-challenge-first-command/obj/Debug/netcoreapp3.1/soda-machine-challenge-first-command.csproj.CoreCompileInputs.cache
+/home/alexandra/fc_soda_machine/soda-machine-challenge-first-command/obj/Debug/netcoreapp3.1/soda-machine-challenge-first-command.dll
+/home/alexandra/fc_soda_machine/soda-machine-challenge-first-command/obj/Debug/netcoreapp3.1/soda-machine-challenge-first-command.pdb
+/home/alexandra/fc_soda_machine/soda-machine-challenge-first-command/obj/Debug/netcoreapp3.1/soda-machine-challenge-first-command.genruntimeconfig.cache
